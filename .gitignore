@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# data — kept locally / shared via Drive, never committed
+data/raw/
+data/built/
+
+# notebooks checkpoints
+.ipynb_checkpoints/

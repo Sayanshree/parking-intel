@@ -1,0 +1,8 @@
+pandas
+numpy
+pyarrow
+h3
+scikit-learn
+folium
+matplotlib
+streamlit
